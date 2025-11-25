@@ -1,6 +1,6 @@
 # 🏠 Nyumbani - Smart Student Accommodation Finder
 
-> **Final Year Android Project**  
+> **Final Year Mobile Application Android Project**  
 > **Built with:** Kotlin, Jetpack Compose, Firebase & MVVM Architecture.
 
 ## 📄 Abstract
@@ -50,9 +50,9 @@ The app is built using modern Android development standards:
 ## 📱 Screenshots
 
 | Student Home | Hostel Details | Booking Screen |
-|:![Nyum![Booking Screen](https://github.com/user-attachments/assets/41818c14-9480-4bc8-89e2-d360bb64dd64)
-bani-Home](https://github.com/user-attachments/assets/81ca2cea-08ae-4c17-8b96-8db574de39ca)
----:|:![HostelDetails](https://github.com/user-attachments/assets/e3afb62c-0244-466c-8780-e6862838f61f)
+|:![Student Home](https://github.com/user-attachments/assets/81ca2cea-08ae-4c17-8b96-8db574de39ca)---:|
+|:![Hostel Details](https://github.com/user-attachments/assets/e3afb62c-0244-466c-8780-e6862838f61f)---:|
+|:![Booking Screen](https://github.com/user-attachments/assets/ef1240c8-0f3c-45e3-b2f6-61774370bf38)---:|
 
 
 | Owner Dashboard | Add Property | Tenant Bookings |

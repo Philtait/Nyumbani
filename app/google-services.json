@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354864177540",
+    "project_id": "nyumbani-8258b",
+    "storage_bucket": "nyumbani-8258b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354864177540:android:f1e329f10ed895e6e07dd1",
+        "android_client_info": {
+          "package_name": "com.example.nyumbani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5xu_CDIVccOENJegyONfdzrXgMczTJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
